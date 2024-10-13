@@ -8,7 +8,7 @@
   ```
   - Captura:
 
-<img src="./capturas/PathVariable" alt="drawing" width="500"/>
+<img src="./capturas/PathVariable.png" alt="drawing" width="500"/>
 
 
 ## 2. RequestParam
@@ -18,7 +18,7 @@
   ```
   - Captura:
 
-<img src="./capturas/RequestParam" alt="drawing" width="500"/>
+<img src="./capturas/RequestParam.png" alt="drawing" width="500"/>
 
 
 ## 3. RequetBody
@@ -28,6 +28,6 @@
   ```
   - Captura:
 
-<img src="./capturas/RequestBody" alt="drawing" width="500"/>
+<img src="./capturas/RequestBody.png" alt="drawing" width="500"/>
 
 
